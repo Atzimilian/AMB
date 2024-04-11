@@ -35,9 +35,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Maxi\Documents\Unreal Projects\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
-"C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+"F:\Git-Projekte\GA2024_AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
 "ThirdParty\Steamworks\Steamv153\sdk\redistributable_bin\win64\steam_api64.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
@@ -78,7 +78,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64\UnrealEditor-OnlineSubsystemSteam.dll"
-/IMPLIB:"C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.sup.lib"
-/PDB:"C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64\UnrealEditor-OnlineSubsystemSteam.pdb"
+/OUT:"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64\UnrealEditor-OnlineSubsystemSteam.dll"
+/IMPLIB:"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.sup.lib"
+/PDB:"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Binaries\Win64\UnrealEditor-OnlineSubsystemSteam.pdb"
 /ignore:4078

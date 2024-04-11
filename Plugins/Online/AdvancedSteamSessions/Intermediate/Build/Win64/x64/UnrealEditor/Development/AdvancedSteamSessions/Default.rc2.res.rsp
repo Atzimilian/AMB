@@ -74,5 +74,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=AMB
-/fo "C:\Users\Maxi\Documents\Unreal Projects\AMB\Plugins\Online\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/fo "F:\Git-Projekte\GA2024_AMB\Plugins\Online\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
