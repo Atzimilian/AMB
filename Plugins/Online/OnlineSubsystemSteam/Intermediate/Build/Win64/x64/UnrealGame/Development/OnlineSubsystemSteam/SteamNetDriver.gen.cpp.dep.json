@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\git-projekte\\ga2024_amb\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemsteam\\uht\\steamnetdriver.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\git-projekte\\ga2024_amb\\intermediate\\build\\win64\\x64\\amb\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\git-projekte\\ga2024_amb\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\x64\\unrealgame\\development\\onlinesubsystemsteam\\definitions.onlinesubsystemsteam.h",
+            "f:\\git-projekte\\ga2024_amb\\plugins\\online\\onlinesubsystemsteam\\source\\classes\\steamnetdriver.h",
+            "e:\\epicgames\\ue_5.3\\engine\\plugins\\online\\onlinesubsystemutils\\source\\onlinesubsystemutils\\classes\\ipnetdriver.h",
+            "e:\\epicgames\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\circularqueue.h",
+            "e:\\epicgames\\ue_5.3\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "e:\\epicgames\\ue_5.3\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "e:\\epicgames\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\spscqueue.h",
+            "e:\\epicgames\\ue_5.3\\engine\\plugins\\online\\onlinesubsystemutils\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemutils\\uht\\ipnetdriver.generated.h",
+            "f:\\git-projekte\\ga2024_amb\\plugins\\online\\onlinesubsystemsteam\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemsteam\\uht\\steamnetdriver.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
