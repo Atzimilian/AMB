@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemSteam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git-Projekte\GA2024_AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/OUT:"F:\Git-Projekte\GA2024_AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.lib"
