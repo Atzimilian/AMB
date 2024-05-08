@@ -1,4 +1,4 @@
-#include "F:/Git-Projekte/GA2024_AMB/Intermediate/Build/Win64/x64/AMBEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "C:/Users/farya/AMB/Intermediate/Build/Win64/x64/AMBEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED

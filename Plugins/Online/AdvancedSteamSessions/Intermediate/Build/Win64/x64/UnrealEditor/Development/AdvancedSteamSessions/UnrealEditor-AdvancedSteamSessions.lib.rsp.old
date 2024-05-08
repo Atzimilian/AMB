@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Git-Projekte\GA2024_AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"F:\Git-Projekte\GA2024_AMB\Plugins\Online\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"F:\Git-Projekte\GA2024_AMB\Plugins\Online\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
