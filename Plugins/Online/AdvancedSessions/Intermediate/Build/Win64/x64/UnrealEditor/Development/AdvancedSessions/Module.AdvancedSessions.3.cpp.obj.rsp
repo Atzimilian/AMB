@@ -1,11 +1,11 @@
-"C:\Users\farya\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
-/FI"C:\Users\farya\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\farya\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"C:\Users\farya\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\farya\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\farya\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
-/sourceDependencies "C:\Users\farya\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
-@"C:\Users\farya\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
+"C:\Users\User\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp"
+/FI"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\User\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\User\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.obj"
+/sourceDependencies "C:\Users\User\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.3.cpp.dep.json"
+@"C:\Users\User\AMB\Plugins\Online\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\AdvancedSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
