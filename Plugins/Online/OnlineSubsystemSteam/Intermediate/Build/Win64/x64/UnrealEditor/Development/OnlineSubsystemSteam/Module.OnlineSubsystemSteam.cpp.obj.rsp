@@ -1,11 +1,11 @@
-"C:\Users\User\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp"
-/FI"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Users\User\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Definitions.OnlineSubsystemSteam.h"
-/Yu"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Users\User\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Users\User\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
-/sourceDependencies "C:\Users\User\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.dep.json"
-@"C:\Users\User\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\OnlineSubsystemSteam.Shared.rsp"
+"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp"
+/FI"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Definitions.OnlineSubsystemSteam.h"
+/Yu"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Intermediate\Build\Win64\x64\AMBEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+/sourceDependencies "C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.dep.json"
+@"C:\Users\gensh\Documents\GamesAcademy\Projektarbeit\AMB\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystemSteam\OnlineSubsystemSteam.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
